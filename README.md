@@ -2,10 +2,7 @@
 
 ## Estudando Desenvolvimento de Software Multiplataforma na Fatec de Jahu
 
-<div>
-    <a href="https://github.com/LucasBardeli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=compact&langs-count=16&theme=gotham"/>
-</div>
+![Lucas Bardeli](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=compact&theme=dark)
 
 ##
 
