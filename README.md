@@ -2,10 +2,8 @@
 
 ## Estudando Desenvolvimento de Software Multiplataforma na Fatec de Jahu
 
-![Lucas Bardeli](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=compact&theme=dark)
+![Lucas Bardeli Status](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=compact&theme=dark)
 
 ##
 
-<div>
-    <a href="https://www.linkedin.com/in/lucasbardeli" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"> </a>
-</div>
+[![Link Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbardeli%C3%A7o/)](https://www.linkedin.com/in/lucasbardeli/)
