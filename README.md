@@ -13,4 +13,4 @@ Ainda desvendando o mundo da programação.
 [![Lucas Bardeli Status](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=donut-vertical&theme=dark)](https://github.com/LucasBardeli)
 
 ## Meu perfil do LinkedIn:
-[![Link Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbardeli%C3%A7o/)](https://www.linkedin.com/in/lucasbardeli/)
+[![Link Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasbardeli%C3%A7o/)](https://www.linkedin.com/in/lucasbardeli/)
