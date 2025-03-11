@@ -8,6 +8,7 @@ Ainda desvendando o mundo da programação.
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/LucasBardeli) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)](https://github.com/LucasBardeli) 
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/LucasBardeli)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/LucasBardeli)
 
 ##
 [![Lucas Bardeli Status](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=donut-vertical&theme=dark)](https://github.com/LucasBardeli)
