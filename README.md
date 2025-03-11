@@ -1,6 +1,7 @@
 <!-- LucasBardeli/LucasBardeli is a special repository because its README.md (this file) appears on your GitHub profile. -->
 
 ## Estudando Desenvolvimento de Software Multiplataforma na Fatec de Jahu
+Ainda desvendando o mundo da programação.
 
 [![Lucas Bardeli Status](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBardeli&layout=donut-vertical&theme=dark)](https://github.com/LucasBardeli)
 
