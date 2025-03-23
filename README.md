@@ -1,4 +1,3 @@
-<!-- LucasBardeli/LucasBardeli is a special repository because its README.md (this file) appears on your GitHub profile. -->
 
 ## Estudando Desenvolvimento de Software Multiplataforma na Fatec de Jahu
 Ainda desvendando o mundo da programação.
@@ -12,7 +11,7 @@ Ainda desvendando o mundo da programação.
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/lucas-bardeli)
 
 ##
-[![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=dark&layout=donut-vertical)](https://github.com/lucas-bardeli)
+[![Status](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=dark&layout=donut-vertical&langs_count=10)](https://github.com/lucas-bardeli)
 
 ## Meu perfil do LinkedIn:
-[![Link Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bardeli%C3%A7o/)](https://www.linkedin.com/in/lucas-bardeli/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bardeli%C3%A7o/)](https://www.linkedin.com/in/lucas-bardeli/)
