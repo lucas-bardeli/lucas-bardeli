@@ -14,7 +14,6 @@
 ### 🛠️ Ferramentas:
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 ##
 [![Langs %](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=donut-vertical&langs_count=10)](#)  &nbsp;
