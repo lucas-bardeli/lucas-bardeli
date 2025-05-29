@@ -2,6 +2,8 @@
 ## 🚀 Estudando Desenvolvimento de Software Multiplataforma na Fatec de Jahu.
 🔍 Desvendando o mundo da programação.
 
+🌐 Visite o meu repositório de [Hello, World!](https://github.com/lucas-bardeli/hello-world)
+
 ### 💻 Linguagens:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -16,7 +18,7 @@
 [![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ##
-[![Langs %](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=donut-vertical&langs_count=10)](#)  &nbsp;
+[![Langs %](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=donut-vertical&langs_count=4)](#)  &nbsp;
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark)](#)
 ##
 
