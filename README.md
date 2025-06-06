@@ -4,23 +4,28 @@
 
 🌐 Visite o meu repositório de [Hello, World!](https://github.com/lucas-bardeli/hello-world)
 
+##
 ### 💻 Linguagens:
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34c26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)](#)
+<div>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="45" width="55"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" width="55"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" width="55"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="45" width="55"></a>
+</div>
 
 ### 📋 Frameworks:
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-702CF5?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
+<div>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="45" width="55"></a>
+</div>
 
 ### 🛠️ Ferramentas:
-[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=white)](#)
+<div>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="45" width="55"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="45" width="55"></a>
+</div>
 
 ##
-[![Langs %](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=donut-vertical&langs_count=4)](#)  &nbsp;
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark)](#)
-##
-
 ### 🔗 Meu perfil do LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bardeli/)
+<div>
+  <a href="https://www.linkedin.com/in/lucas-bardeli/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="45" width="55"></a>
+</div>
