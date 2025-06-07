@@ -25,9 +25,9 @@
 </h3>
 
 ##
-<h2>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=donut&langs_count=4" alt="Langs %" align="center"></a> &nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats" align="center" height="215"></a>
+<h2 align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=donut&langs_count=4" alt="Langs %"></a> &nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
 </h2>
 
 <h3>
