@@ -27,3 +27,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="center" width="40">
   </a>
 </h3>
+
+##
+<div align="center">
+  <picture aling="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucas-bardeli/lucas-bardeli/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
