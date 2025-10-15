@@ -3,14 +3,14 @@
 
 ## 💻 Principais tecnologias:
 <h3 align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" text="HTML" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" text="CSS" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" text="JavaScript" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" text="Bootstrap" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" text="Tailwind CSS" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL & SQL" text="MySQL & SQL" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" text="Visual Studio Code" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" text="Git" align="center" width="40"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL & SQL" title="MySQL & SQL" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="40"></a>
 </h3>
 
 ##
@@ -22,7 +22,7 @@
 <h3>
   🔗 Conecte-se comigo: &nbsp;
   <a href="https://www.linkedin.com/in/lucas-bardeli/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" text="LinkedIn" align="center" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" align="center" width="40">
   </a>
 </h3>
 
