@@ -1,5 +1,10 @@
 ## 👋 Olá, bem-vindo(a) ao meu GitHub!
-🚀 Aqui é onde eu guardo meus projetos desenvolvidos nas aulas da Fatec de Jahu ou em cursos. Estou trabalhando no meu portfólio para exibir mais informações sobre mim.
+🚀 Aqui é onde eu guardo meus projetos desenvolvidos, aulas da Fatec de Jahu e cursos. Estou trabalhando no meu portfólio para exibir mais informações sobre mim.
+
+## 💡 Experiência:
+📚 **Acadêmica**: Desenvolvimento de Software Multiplataforma, Fatec Jahu, 2025 - 2027.
+
+💼 **Profissional**: Estagiário de TI, Integrale Gestão Empresarial, Maio de 2025 até o momento.
 
 ## 💻 Principais tecnologias:
 <h3 align="center">
