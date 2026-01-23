@@ -1,4 +1,4 @@
-## 👋 Olá, bem-vindo(a) ao meu GitHub!
+<h2 align="center">👋 Olá, bem-vindo(a) ao meu GitHub!</h2>
 🚀 Aqui é onde eu guardo meus projetos desenvolvidos, aulas da Fatec de Jahu e cursos. Estou trabalhando no meu portfólio para exibir mais informações sobre mim.
 
 ## 💡 Experiência:
