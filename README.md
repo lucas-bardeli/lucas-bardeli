@@ -8,12 +8,12 @@
 
 ## 💻 Principais tecnologias:
 <h3 align="center">
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" align="center" width="40"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" align="center" width="40"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL & SQL" title="MySQL & SQL" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" align="center" width="40"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="40"></a>
@@ -21,8 +21,8 @@
 
 ##
 <h2 align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=compact&langs_count=6" alt="Langs %" height="195"></a> &nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Langs %"></a> &nbsp;
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
 </h2>
 
 <h3>
