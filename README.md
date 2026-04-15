@@ -1,5 +1,8 @@
 <h2 align="center">👋 Olá, bem-vindo(a) ao meu GitHub!</h2>
-🚀 Aqui é onde eu guardo meus projetos desenvolvidos, aulas da Fatec de Jahu e cursos. Estou trabalhando no meu portfólio para exibir mais informações sobre mim.
+
+🚀 Aqui é onde eu guardo meus projetos desenvolvidos, aulas da Fatec de Jahu e cursos.
+
+🌐 Confira meu repositório de [Hello, World!](https://github.com/lucas-bardeli/hello-world) e também meus [Gists](https://gist.github.com/lucas-bardeli)!
 
 ## 💡 Experiência:
 📚 **Acadêmica**: Desenvolvimento de Software Multiplataforma, Fatec Jahu, 2025 - 2027.
