@@ -22,11 +22,10 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="40"></a>
 </h3>
 
-##
-<h2 align="center">
+<div align="center">
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Langs %"></a> &nbsp;
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
-</h2>
+</div>
 
 ## 🔍 Outras tecnologias:
 > Demais tecnologias que utilizo em estudos, cursos, na Fatec de Jahu e/ou no estágio na Integrale.
