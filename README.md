@@ -28,6 +28,29 @@
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
 </h2>
 
+## 🔍 Outras tecnologias:
+> Demais tecnologias que utilizo em estudos, cursos, na Fatec de Jahu e/ou no estágio na Integrale.
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" align="center" width="25"></a> &nbsp;&nbsp;
+(Desenvolvimento Front-End e Web...)
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" align="center" width="30"></a> &nbsp;&nbsp;
+(Desenvolvimento Back-End e Web...)
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" align="center" width="25"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" align="center" width="30"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.simpleicons.org/uipath" alt="UiPath" title="UiPath" align="center" width="30"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" align="center" width="30"></a> &nbsp;&nbsp;
+(Automações e análise de dados...)
+
+##
 <h3>
   🔗 Conecte-se comigo: &nbsp;
   <a href="https://www.linkedin.com/in/lucas-bardeli/">
