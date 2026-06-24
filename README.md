@@ -44,7 +44,7 @@
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" align="center" width="30"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" align="center" width="35"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://cdn.simpleicons.org/uipath" alt="UiPath" title="UiPath" align="center" width="35"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" align="center" width="35"></a>
+<a href="#"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" align="center" width="30"></a>
 
 ##
 <h3>
