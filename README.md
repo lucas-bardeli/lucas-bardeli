@@ -1,8 +1,10 @@
 <h2 align="center">👋 Olá, bem-vindo(a) ao meu GitHub!</h2>
 
-🚀 Aqui é onde eu guardo meus projetos desenvolvidos, aulas da Fatec de Jahu e cursos.
+🚀 Sou Lucas Bardeli, estudante de Desenvolvimento de Software Multiplataforma na Fatec Jahu e estagiário na área de desenvolvimento de software, com cerca de dois anos e meio de experiência prática entre estudos, projetos e atuação profissional.
 
-🌐 Confira meu repositório de [Hello, World!](https://github.com/lucas-bardeli/hello-world) e também meus [Gists](https://gist.github.com/lucas-bardeli)!
+Neste perfil você encontrará os projetos que desenvolvi, atividades da Fatec Jahu, estudos, cursos e experimentos que fazem parte da minha evolução como desenvolvedor.
+
+Também possuo nível intermediário de inglês, o que me permite estudar por meio de documentação técnica, acompanhar conteúdos internacionais e ampliar constantemente meu aprendizado.
 
 ## 💡 Experiência:
 - 📚 **Acadêmica**: Desenvolvimento de Software Multiplataforma, Fatec Jahu, 2025 - 2027.
@@ -10,47 +12,46 @@
 - 💼 **Profissional**: Estagiário de TI, Integrale Gestão Empresarial, Maio de 2025 até o momento.
 
 ## 💻 Tecnologias utilizadas:
-<h3>
+<div>
 
-  - Front-End: &nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" alt="Nuxt" title="Nuxt" align="center" width="35"></a>
-</h3>
+  - **Front-End**: &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" alt="Nuxt" title="Nuxt" align="center" width="30"></a>
+</div>
+<div>
 
-<h3>
-
-  - Back-End: &nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" align="center" width="35"></a>
-</h3>
-
-<h3>
-
-  - Ferramentas: &nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" align="center" width="35"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" align="center" width="35"></a>
-</h3>
+  - **Back-End**: &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" align="center" width="30"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ferramentas**: &nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" align="center" width="30"></a> &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" align="center" width="30"></a>
+</div>
 
 <h2 align="center">
-  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Langs %"></a> &nbsp;
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Langs %"></a>
+  &nbsp;
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
 </h2>
 
 <h3>
   🔗 Conecte-se comigo: &nbsp;
   <a href="https://www.linkedin.com/in/lucas-bardeli/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" align="center" width="40">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" align="center" width="35">
+  </a> &nbsp;&nbsp;
+  <a href="mailto:lucas.silva187@aluno.cps.sp.gov.br">
+    <img src="https://cdn.simpleicons.org/gmail" alt="E-mail" title="E-mail" align="center" width="35">
   </a>
 </h3>
 
