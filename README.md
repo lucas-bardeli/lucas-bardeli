@@ -55,6 +55,8 @@ Também possuo nível intermediário de inglês, o que me permite estudar por me
   </a>
 </h3>
 
+> "There is no dark side in the moon, really. Matter of fact, it's all dark." - Pink Floyd
+
 <!-- ##
 <div align="center">
   <picture aling="center">
