@@ -51,8 +51,11 @@ Também possuo nível intermediário de inglês, o que me permite estudar por me
   <a href="https://www.linkedin.com/in/lucas-bardeli/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" align="center" width="35">
   </a> &nbsp;&nbsp;
-  <a href="mailto:lucas.silva187@aluno.cps.sp.gov.br">
+  <a href="mailto:lucas.silva187@aluno.cps.sp.gov.br" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail" alt="E-mail" title="E-mail" align="center" width="35">
+  </a> &nbsp;&nbsp;
+  <a href="https://open.spotify.com/playlist/0NofDZMfIfahbVpVsQ7Vwj?si=abbf0e0305914da5" target="_blank">
+    <img src="https://cdn.simpleicons.org/spotify" alt="Playlist Spotify" title="Playlist Spotify" align="center" width="35">
   </a>
 </h3>
 
