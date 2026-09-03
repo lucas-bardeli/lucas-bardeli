@@ -1,20 +1,17 @@
 <h2 align="center">👋 Olá, bem-vindo(a) ao meu GitHub!</h2>
 
-🚀 Sou Lucas Bardeli, estudante de Desenvolvimento de Software Multiplataforma na Fatec Jahu e estagiário na área de desenvolvimento de software, com cerca de dois anos e meio de experiência prática entre estudos, projetos e atuação profissional.
+🚀 Sou Lucas Bardeli, estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Jahu** e atualmente estagiário de TI na **Integrale Gestão Empresarial**, com cerca de **dois anos e meio** de experiência prática entre estudos, projetos e atuação profissional.
 
-Neste perfil você encontrará os projetos que desenvolvi, atividades da Fatec Jahu, estudos, cursos e experimentos que fazem parte da minha evolução como desenvolvedor.
+💡 Neste perfil você encontrará os **projetos** que desenvolvi, **atividades** da Fatec Jahu, estudos, cursos e **experimentos** que fazem parte da minha evolução como desenvolvedor.
 
-Também possuo nível intermediário de inglês, o que me permite estudar por meio de documentação técnica, acompanhar conteúdos internacionais e ampliar constantemente meu aprendizado.
+🌐 Também possuo nível **intermediário** de inglês, o que me permite estudar por meio de documentação técnica, acompanhar conteúdos internacionais e ampliar constantemente meu aprendizado.
 
-## 💡 Experiência:
-- 📚 **Acadêmica**: Desenvolvimento de Software Multiplataforma, Fatec Jahu, 2025 - 2027.
-
-- 💼 **Profissional**: Estagiário de TI, Integrale Gestão Empresarial, Maio de 2025 até o momento.
+🔗 Conecte-se comigo através do [LinkedIn](https://www.linkedin.com/in/lucas-bardeli/)! Ou entre em contato pelo e-mail: [lucas.silva187@aluno.cps.sp.gov.br](mailto:lucas.silva187@aluno.cps.sp.gov.br).
 
 ## 💻 Tecnologias utilizadas:
-<div>
+<div align="center">
 
-  - **Front-End**: &nbsp;&nbsp;
+  **Front-End**: &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" align="center" width="33"></a> &nbsp;&nbsp;
@@ -25,9 +22,9 @@ Também possuo nível intermediário de inglês, o que me permite estudar por me
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" alt="Nuxt" title="Nuxt" align="center" width="33"></a>
 </div>
-<div>
+<div align="center">
 
-  - **Back-End**: &nbsp;&nbsp;
+  **Back-End**: &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" align="center" width="33"></a> &nbsp;&nbsp;
@@ -45,19 +42,6 @@ Também possuo nível intermediário de inglês, o que me permite estudar por me
   &nbsp;
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=lucas-bardeli&show_icons=true&theme=github_dark" alt="GitHub Stats"></a>
 </h2>
-
-<h3>
-  🔗 Conecte-se comigo: &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lucas-bardeli/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" align="center" width="35">
-  </a> &nbsp;&nbsp;
-  <a href="mailto:lucas.silva187@aluno.cps.sp.gov.br" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail" alt="E-mail" title="E-mail" align="center" width="35">
-  </a> &nbsp;&nbsp;
-  <a href="https://open.spotify.com/playlist/0NofDZMfIfahbVpVsQ7Vwj?si=abbf0e0305914da5" target="_blank">
-    <img src="https://cdn.simpleicons.org/spotify" alt="Playlist Spotify" title="Playlist Spotify" align="center" width="35">
-  </a>
-</h3>
 
 > "There is no dark side in the moon, really. Matter of fact, it's all dark." - Pink Floyd
 
