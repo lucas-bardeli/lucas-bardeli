@@ -9,9 +9,8 @@
 🔗 Conecte-se comigo através do [LinkedIn](https://www.linkedin.com/in/lucas-bardeli/)! Ou entre em contato pelo e-mail: [lucas.silva187@aluno.cps.sp.gov.br](mailto:lucas.silva187@aluno.cps.sp.gov.br).
 
 ## 💻 Tecnologias utilizadas:
-<div align="center">
-
-  **FRONT-END**: &nbsp;&nbsp;
+<h3 align="center">
+  Front-End: &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" align="center" width="33"></a> &nbsp;&nbsp;
@@ -21,21 +20,20 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg" alt="Nuxt" title="Nuxt" align="center" width="33"></a>
-</div>
-<div align="center">
-
-  **BACK-END**: &nbsp;&nbsp;
+</h3>
+<h3 align="center">
+  Back-End: &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" align="center" width="33"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**FERRAMENTAS**: &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ferramentas: &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" align="center" width="33"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" align="center" width="33"></a>
-</div>
+</h3>
 
 <h2 align="center">
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas-bardeli&theme=github_dark&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" alt="Langs %"></a>
