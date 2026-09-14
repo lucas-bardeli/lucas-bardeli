@@ -1,10 +1,8 @@
 <h2 align="center">👋 Olá, bem-vindo(a) ao meu GitHub!</h2>
 
-🚀 Sou Lucas Bardeli, estudante de Desenvolvimento de Software Multiplataforma na Fatec Jahu e atualmente estagiário de TI na Integrale Gestão Empresarial com cerca de dois anos e meio de experiência prática entre estudos, projetos e atuação profissional.
-
-💡 Neste perfil você encontrará os projetos que desenvolvi, atividades da Fatec Jahu, estudos, cursos e experimentos que fazem parte da minha evolução como desenvolvedor.
-
-🌐 Também possuo nível intermediário de inglês, o que me permite estudar por meio de documentação técnica, acompanhar conteúdos internacionais e ampliar constantemente meu aprendizado.
+* Sou Lucas Bardeli, estudante de Desenvolvimento de Software Multiplataforma na Fatec Jahu e atualmente estagiário de TI na Integrale Gestão Empresarial com cerca de dois anos e meio de experiência prática entre estudos, projetos e atuação profissional.
+* Neste perfil você encontrará os projetos que desenvolvi, atividades da Fatec Jahu, estudos, cursos e experimentos que fazem parte da minha evolução como desenvolvedor.
+* Também possuo nível intermediário de inglês, o que me permite estudar por meio de documentação técnica, acompanhar conteúdos internacionais e ampliar constantemente meu aprendizado.
 
 🔗 Conecte-se comigo através do [LinkedIn](https://www.linkedin.com/in/lucas-bardeli/)! Ou entre em contato pelo e-mail: [lucas.silva187@aluno.cps.sp.gov.br](mailto:lucas.silva187@aluno.cps.sp.gov.br).
 
@@ -31,10 +29,9 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" align="center" width="30"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" align="center" width="30"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ferramentas**: &nbsp;&nbsp;
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" title="Notion" align="center" width="30"></a> &nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" align="center" width="30"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="30"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" align="center" width="30"></a> &nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" align="center" width="30"></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" align="center" width="30"></a>
 </div>
 
 <h2 align="center">
